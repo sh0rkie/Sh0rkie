@@ -5,7 +5,7 @@
 
 ### About me
 - 🌱 I’m currently learning **GameDev**
-- 📫 Reach me by [Discord @retrobiz](https://discord.com/users/844782975274450946), [telegram](https://t.me/retrobiz)
+- 📫 Reach me by [Discord @sh4rkie, [telegram](https://t.me/sh_4rkie)
 - 🌍 I speak English
 - 🦊 I am furry
 - 🍎 Apple fan
