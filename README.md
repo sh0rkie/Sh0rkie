@@ -1,14 +1,13 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  RetroBiz </h1>
+    <h1>Hi there, I'm  Sh4rkie! </h1>
     <h3>Java coder, minecraft fan</h3>
 </div>
 
 ### About me
 - 🌱 I’m currently learning **GameDev**
-- 📫 Reach me by [Discord @sh4rkie, [telegram](https://t.me/sh_4rkie)
+- 📫 Reach me by [Discord @sh4rkie or [telegram](https://t.me/sh_4rkie)
 - 🌍 I speak English
 - 🦊 I am furry
-- 🍎 Apple fan
 - ⛏️ minecraft fan
 
 ---
