@@ -2,6 +2,11 @@
     <h1>Hi there, I'm Sh4rkie!</h1>
     <h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sh4rkiex11/sh4rkiex11/blob/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sh4rkiex11/sh4rkiex11/blob/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sh4rkiex11/sh4rkiex11/blob/main/dist/github-snake.svg" />
+</picture>
 
 ### About me
 - 🌱 I’m currently learning **GameDev**
