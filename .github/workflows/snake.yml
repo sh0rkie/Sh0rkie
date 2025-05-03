@@ -14,21 +14,21 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake Game with Platane/snk
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            .github/github-snake.svg
+            .github/github-snake-dark.svg?palette=github-dark
+            .github/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit & Push new snake images
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
-          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
-          git commit -m "Update Snake Game"
+          git add .github/github-snake.svg .github/github-snake-dark.svg .github/ocean.gif
+          git diff --exit-code || git commit -m "Update Snake Game"
           git push
