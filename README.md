@@ -16,7 +16,7 @@
 - ⛏️ Minecraft fan
 - 🖥️ Arch Linux & Hyprland enthusiast
 - 🎨 I love the Catppuccin theme
-- 💻 I program in **Java**, **Python**, **HTML**, **CSS**
+- 💻 I program in **Java**, **Python**, **HTML**, **CSS**, **Java Script**
 
 ---
 
@@ -40,8 +40,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&langs_count=10&theme=dark)
 
 ---
-
-### Fun Facts
-- 🎮 **Minecraft fan** and modder
-- 💾 **Enthusiast** of Arch Linux, Hyprland, and Catppuccin theme
-- 🚀 Passionate about **GameDev**, **Java**, and **Python**
