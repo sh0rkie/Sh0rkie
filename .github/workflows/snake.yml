@@ -3,7 +3,6 @@
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repositoryowner` or specified user
     github_user_name: ${{ github.repository_owner }}
-
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
     #
