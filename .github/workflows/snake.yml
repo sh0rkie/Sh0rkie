@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.3.0
         with:
