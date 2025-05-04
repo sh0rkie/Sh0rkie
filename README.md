@@ -19,11 +19,11 @@
 
 </p>
 <p> 🌱 I’m currently learning <b> GameDev </b> </p>
-<p> 🌍 I speak English </p>
-<p> 🦊 I am furry </p>
-<p> ⛏️ Minecraft fan </p>
 <p> 🖥️ Arch Linux & Hyprland enthusiast </p>
 <p> 🎨 I love the Catppuccin theme </p>
+<p> 🌍 I speak English </p>
+<p> ⛏️ Minecraft fan </p>
+<p> 🦊 I am furry </p>
 </div>
 
 <div align="center">
