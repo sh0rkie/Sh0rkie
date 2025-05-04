@@ -2,32 +2,25 @@
     <h1>Hi there, I'm Sh4rkie!</h1>
     <h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
 </div>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake/github-snake.svg" />
   <img alt="github-snake" src="snake/github-snake.svg" />
 </picture>
+</div>
 
 <div align="center">
-<table>
-<tr>
-<td>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td><a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a></td>
-<td><a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a></td>
-</tr>
-</table>
+<a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+<a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
 </div>
+
 
 <div align="center">
     
