@@ -13,8 +13,12 @@
 <div align="center">
 <h1> About me </h1>
 <h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
+<p>
+    
+📫 Reach me by Discord @sh4rkie or [Telegram](https://t.me/sh_4rkie)
+
+</p>
 <p> 🌱 I’m currently learning <b> GameDev </b> </p>
-<p> 📫 Reach me by Discord @sh4rkie or [Telegram](https://t.me/sh_4rkie) </p>
 <p> 🌍 I speak English </p>
 <p> 🦊 I am furry </p>
 <p> ⛏️ Minecraft fan </p>
