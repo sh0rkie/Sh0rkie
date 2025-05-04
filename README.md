@@ -24,7 +24,6 @@
 <p> ⛏️ Minecraft fan </p>
 <p> 🖥️ Arch Linux & Hyprland enthusiast </p>
 <p> 🎨 I love the Catppuccin theme </p>
-<p> 💻 I program in <b>Java</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>Java Script</b> </p>
 </div>
 
 <div align="center">
