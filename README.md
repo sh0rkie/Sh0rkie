@@ -3,9 +3,9 @@
     <h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset=".github/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=".github/github-snake.svg" />
+  <img alt="github-snake" src=".github/github-snake.svg" />
 </picture>
 
 ### About me
