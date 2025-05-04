@@ -29,19 +29,23 @@
 </table>
 </div>
 
-### About me
-- 🌱 I’m currently learning **GameDev**
-- 📫 Reach me by Discord @sh4rkie or [Telegram](https://t.me/sh_4rkie)
-- 🌍 I speak English
-- 🦊 I am furry
-- ⛏️ Minecraft fan
-- 🖥️ Arch Linux & Hyprland enthusiast
-- 🎨 I love the Catppuccin theme
-- 💻 I program in **Java**, **Python**, **HTML**, **CSS**, **Java Script**
+<div align="center">
+    
+<h1> About me </h1>
+<p> 🌱 I’m currently learning <b> GameDev </b> </p>
+<p> 📫 Reach me by Discord @sh4rkie or [Telegram](https://t.me/sh_4rkie) </p>
+<p> 🌍 I speak English </p>
+<p> 🦊 I am furry </p>
+<p> ⛏️ Minecraft fan </p>
+<p> 🖥️ Arch Linux & Hyprland enthusiast </p>
+<p> 🎨 I love the Catppuccin theme </p>
+<p> 💻 I program in <b>Java</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>Java Script</b> </p>
 
----
+</div>
 
-### Languages and tools
+<div align="center">
+
+<h1> Languages and tools </h1>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
@@ -52,4 +56,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" width="40" height="40"/>&nbsp;
 
----
+</div>
