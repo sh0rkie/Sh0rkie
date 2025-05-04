@@ -8,6 +8,27 @@
   <img alt="github-snake" src="snake/github-snake.svg" />
 </picture>
 
+<div align="center">
+<table>
+<tr>
+<td>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td><a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a></td>
+<td><a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a></td>
+</tr>
+</table>
+</div>
+
 ### About me
 - 🌱 I’m currently learning **GameDev**
 - 📫 Reach me by Discord @sh4rkie or [Telegram](https://t.me/sh_4rkie)
@@ -30,13 +51,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" width="40" height="40"/>&nbsp;
-
----
-
-### Stats
-
-![Sh4rkie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh4rkiex11&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&langs_count=10&theme=dark)
 
 ---
