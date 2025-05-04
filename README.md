@@ -28,7 +28,8 @@
 </div>
 
 <div align="center">
-    
+<h1> Stats </h1>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 </div>
