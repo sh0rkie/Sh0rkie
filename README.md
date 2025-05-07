@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Sh4rkie!</h1>
+    <h1>Hi there, I'm Woof!</h1>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
 <p>
     
-📫 Reach me by Discord @sh4rkie or [Telegram](https://t.me/sh_4rkie)
+📫 Reach me by Discord @woof_toaster or [Telegram](https://t.me/sh_4rkie)
 
 </p>
 <p> 🌱 I’m currently learning <b> GameDev </b> </p>
@@ -29,13 +29,13 @@
 <div align="center">
 <h1> Stats </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WoofToaster&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-<a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
-<a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+<a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WoofToaster&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+<a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoofToaster&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
 </div>
 
 <div align="center">
