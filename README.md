@@ -13,7 +13,7 @@
 <div align="center">
 <h1> About me </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+fan%2C+Arch+user%2C+Furry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+fan%2C+Arch+user%2C+Furry:3)](https://git.io/typing-svg)
 
 <p>
     
