@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Woof🍞!</h1>
+    <h1>Hi there, I'm sh4rkie!</h1>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
 <p>
     
-📫 Reach me by Discord @woof_toaster or [Telegram](https://t.me/sh_4rkie)
+📫 Reach me by Discord @sh_4rkie or [Telegram](https://t.me/sh_4rkie)
 
 </p>
 <p> 🌱 I’m currently learning <b> GameDev </b> </p>
