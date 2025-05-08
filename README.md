@@ -30,7 +30,7 @@
 
 <div align="center">
 <h1> Stats </h1>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WoofToaster&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wooftoaster&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
