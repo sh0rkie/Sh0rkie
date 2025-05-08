@@ -12,7 +12,7 @@
 
 <div align="center">
 <h1> About me </h1>
-<h3>Java coder, Minecraft fan, Arch enthusiast, Furry</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+coder%2C+Minecraft+fan%2C+Arch+enthusiast%2C+Furry)](https://git.io/typing-svg)
 <p>
     
 📫 Reach me by Discord @sh_4rkie or [Telegram](https://t.me/sh_4rkie)
