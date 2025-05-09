@@ -12,12 +12,7 @@
 
 <div align="center">
 <h1> About me </h1>
-
-<p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+fan%2C+Arch+user%2C+Furry:3)](https://git.io/typing-svg)
-
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+fan%2C+arch+user%2C+furry%3A3" alt="Typing SVG" /></a>
 <p>
     
 📫 Reach me by Discord @sh_4rkie or [Telegram](https://t.me/sh_4rkie)
