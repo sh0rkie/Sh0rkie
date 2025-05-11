@@ -39,8 +39,8 @@
 </div>
 
 <div>
-<h1> Languages and tools </h1>
 <details>
+<h1> Languages and tools </h1>
 <p>
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
