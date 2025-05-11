@@ -1,16 +1,14 @@
 <div id="header" align="center">
     <h1>Hi there, I'm sh4rkie!</h1>
 </div>
-<br>
+<div align="center">
 <p>
   <a href="https://github.com/sh4rkiex11?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sh4rkiex11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/sh4rkiex11?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh4rkiex11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/sh4rkiex11-profile-views"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh4rkiex11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
-</br>
+</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake/github-snake-dark.svg" />
