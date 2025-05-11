@@ -4,7 +4,7 @@
 <div align="center">
 <p>
   <a href="https://github.com/sh4rkiex11?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sh4rkiex11?color=ffda07&style=for-the-badge&labelColor=FFDE21&logo=star&style=black"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sh4rkiex11?color=ffda07&style=for-the-badge&labelColor=FFDE21&logo=star&logoColor=black"/></a>
   <a href="https://github.com/sh4rkiex11?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh4rkiex11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
