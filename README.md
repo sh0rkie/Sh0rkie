@@ -40,5 +40,7 @@
 
 <div align="center">
 <h1> Languages and tools </h1>
+
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
+
 </div>
