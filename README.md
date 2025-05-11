@@ -12,7 +12,7 @@
 
 <div align="center">
 <h1> About me </h1>
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minecraft+fan%2C+arch+user%2C+furry%3A3" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mono&pause=1000&center=true&vCenter=true&width=435&lines=Minecraft+fan%2C+arch+user%2C+furry%3A3" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
