@@ -40,6 +40,8 @@
 
 <div>
 <h1> Languages and tools </h1>
+<details>
+<p>
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 
@@ -129,4 +131,6 @@
 
 [![Oculus](https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white)](#)
 
+</p>
+</details>
 </div>
