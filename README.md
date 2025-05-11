@@ -34,9 +34,9 @@
 <p> ⛏️ Minecraft fan </p>
 <p> 🦊 I am furry </p>
 </div>
+
+<summary><div align="center">
 <details>
-<summary>
-<div align="center">
 <h1> Stats </h1>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 </div>
@@ -44,9 +44,8 @@
 <div align="center">
 <a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
 <a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
-</div>
-</summary>
 </details>
+</div></summary>
 
 <div>
 <details>
