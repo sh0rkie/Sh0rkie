@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1>Hi there, I'm sh4rkie!</h1>
 </div>
+
 <div align="center">
 <p>
   <a href="https://github.com/sh4rkiex11?tab=repositories&sort=stargazers">
@@ -9,6 +10,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh4rkiex11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 </div>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake/github-snake-dark.svg" />
