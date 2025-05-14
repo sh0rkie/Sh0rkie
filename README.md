@@ -50,7 +50,7 @@
 
 ### **🌍 Browsers**
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
-[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
+[![Google search](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
 
 ### **📁 Productivity & Workflow**
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
@@ -81,7 +81,6 @@
 ### **💾 Operating Systems**
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
-[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 ### **🎮 Game Development**
