@@ -40,9 +40,23 @@
 <div align="center">
 <details>
 <summary><h1> Stats </h1></summary>
+<table>
+<tr>
+<td>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
 <a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+</td>
+<td>
 <a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+</td>
+</tr>
+</table>
 </details>
 </div>
 
