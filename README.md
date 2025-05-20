@@ -4,10 +4,10 @@
 
 <div align="center">
 <p>
-  <a href="https://github.com/sh4rkiex11?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sh4rkiex11?color=FFDE5F&style=for-the-badge&labelColor=FFDE21&logo=star&logoColor=black"/></a>
+  <a href="https://github.com/sh0rkie?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sh0rkie?color=FFDE5F&style=for-the-badge&labelColor=FFDE21&logo=star&logoColor=black"/></a>
   <a href="https://github.com/sh4rkiex11?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh4rkiex11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sh0rkie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 </div>
 
@@ -43,17 +43,17 @@
 <table>
 <tr>
 <td>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh4rkiex11&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh0rkie&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh4rkiex11&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+<a href="streak"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sh0rkie&count_private=true&show_icons=true&border_radius=5&include_all_commits=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
 </td>
 <td>
-<a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4rkiex11&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
+<a href="langs"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0rkie&layout=compact&line_height=21&border_radius=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=b4befe&title_color=94e2d5"/></a>
 </td>
 </tr>
 </table>
