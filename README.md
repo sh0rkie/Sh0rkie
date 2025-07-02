@@ -29,7 +29,7 @@
 📫 Reach me by Discord @sh_0rkie or [Email](miles.hicks24@icloud.com)
 
 </p>
-<p> 🌱 Now I’m learning <b> Make games </b> </p>
+<p> 🌱 I’m currently learning <b> GameDEV </b> </p>
 <p> 🌍 I speak English </p>
 <p> ⛏️ I love Minecraft </p>
 <p> 🦊 I'm furry </p>
