@@ -29,12 +29,10 @@
 📫 Reach me by Discord @sh_0rkie or [Email](miles.hicks24@icloud.com)
 
 </p>
-<p> 🌱 I’m currently learning <b> GameDev </b> </p>
-<p> 🖥️ Arch Linux & Hyprland enthusiast </p>
-<p> 🎨 I love the Catppuccin theme </p>
+<p> 🌱 Now I’m learning <b> Make games </b> </p>
 <p> 🌍 I speak English </p>
-<p> ⛏️ Minecraft fan </p>
-<p> 🦊 I am furry </p>
+<p> ⛏️ I love Minecraft </p>
+<p> 🦊 I'm furry </p>
 </div>
 
 <div align="center">
