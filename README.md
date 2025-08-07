@@ -26,7 +26,7 @@
 
 <div align="center">
     
-📫 Reach me by Discord @sh_0rkie or [Email](miles.hicks24@icloud.com)
+📫 Reach me by Discord @sh_0rkie or [Email](theretrobiz@gmail.com)
 
 </p>
 <p> 🌱 I’m currently learning <b> GameDEV </b> </p>
